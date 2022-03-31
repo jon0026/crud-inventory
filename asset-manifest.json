@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crud-inventory/static/css/main.0b4e74b4.css",
+    "main.js": "/crud-inventory/static/js/main.f999d502.js",
+    "static/js/787.c57cd5aa.chunk.js": "/crud-inventory/static/js/787.c57cd5aa.chunk.js",
+    "index.html": "/crud-inventory/index.html",
+    "main.0b4e74b4.css.map": "/crud-inventory/static/css/main.0b4e74b4.css.map",
+    "main.f999d502.js.map": "/crud-inventory/static/js/main.f999d502.js.map",
+    "787.c57cd5aa.chunk.js.map": "/crud-inventory/static/js/787.c57cd5aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b4e74b4.css",
+    "static/js/main.f999d502.js"
+  ]
+}
